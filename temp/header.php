@@ -27,9 +27,9 @@
                 <div class="contact-us-bar">
                     <a href="#"> <span class="flaticon-email"></span> Hello@example.com </a>
 
-                    <a href="#"> <span class="flaticon-call"></span> +(02) 0114-9912-318 </a>
+                    <a href="#"> <span class="flaticon-call"></span> +91 9999 999 999 </a>
 
-                    <a href="#" class="d-n-mobile"> <span class="flaticon-time"></span> Mon - Fri, 9am - 5pm </a>
+                    <a href="#" class="d-n-mobile"> <span class="flaticon-location"></span> 70 Washington Square South, New York, NY 10012, United States. </a>
                 </div>
             </div>
 
@@ -94,7 +94,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="about.php" class="nav-link">
+                                <a href="about-us.php" class="nav-link">
                                     About Us
                                 </a>
                             </li>

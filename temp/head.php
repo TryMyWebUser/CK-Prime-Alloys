@@ -1,6 +1,6 @@
 <link rel="shortcut icon" href="assets/images/favicon.png" title="Favicon" sizes="16x16" />
 <!-- Main Page Title -->
-<title>Facnex - Industry & Factory HTML Template</title>
+<title>CK Prime Alloys</title>
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700&amp;display=swap" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet" />

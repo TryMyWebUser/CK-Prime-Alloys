@@ -62,24 +62,23 @@
                                         <span>
                                             <i class="fas fa-map-marker-alt"></i>
                                         </span>
-                                        FNo.8, 2nd Floor, Neyveli, Gandhi Nagar (Po), NLC Arch, 
-                                        Kurinchipadi (Tk), Cuddalore - 607308.
+                                        70 Washington Square South, New York, NY 10012, United States.
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:+917010905569">
+                                    <a href="tel:+919999999999">
                                         <span>
                                             <i class="fa fa-phone"></i>
                                         </span>
-                                        +91 70109 05569
+                                        +91 999 999 9999
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="mailto:ivenuscoating@gmail.com">
+                                    <a href="mailto:example@gmail.com">
                                         <span>
                                             <i class="fas fa-envelope"></i>
                                         </span>
-                                        ivenuscoating@gmail.com
+                                        example@gmail.com
                                     </a>
                                 </li>
                             </ul>
@@ -121,7 +120,7 @@
         <div class="container">
             <div class="footer-copy">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <!-- Copyright By Me NourEgy  -->
                         <div class="copyright">
                             Designed and Developed by

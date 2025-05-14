@@ -29,25 +29,20 @@
                             <div class="col-lg-8">
                                 <div class="banner display-table text-left">
                                     <div class="info-header table-cell">
-                                        <div class="top-title-header">Welcome To Facnex</div>
-                                        <h1>Expert knowledge in Technical Solutions</h1>
-                                        <div class="text-header">Our strategies at work are the means by which to achieve the desired goals, and achieve your goals and dreams here</div>
+                                        <div class="top-title-header">Welcome To</div>
+                                        <h1>CK Prime Alloys</h1>
+                                        <div class="text-header">With over 20 years of expertise, CK PRIME ALLOYS stands as a trusted name in the manufacturing and sourcing of high-quality metal castings Based in Coimbatore.</div>
                                         <div class="banner-btn">
                                             <!-- Button One -->
                                             <a href="#" class="main-btn-one">
                                                 <div class="text-btn">
-                                                    <span class="text-btn-one">Get Started</span>
-                                                    <span class="text-btn-two">Get Started</span>
+                                                    <span class="text-btn-one">For Enquiry</span>
+                                                    <span class="text-btn-two">For Enquiry</span>
                                                 </div>
                                                 <div class="arrow-btn">
                                                     <span class="arrow-one"><i class="fas fa-caret-right"></i></span>
                                                     <span class="arrow-two"><i class="fas fa-caret-right"></i></span>
                                                 </div>
-                                            </a>
-
-                                            <a href="https://youtu.be/l-epKcOA7RQ" data-lity class="play-video">
-                                                <div class="play"><i class="fas fa-play"></i></div>
-                                                <span>How We Work!</span>
                                             </a>
                                         </div>
                                     </div>
@@ -65,28 +60,20 @@
                             <div class="col-lg-8">
                                 <div class="banner display-table text-left">
                                     <div class="info-header table-cell">
-                                        <div class="top-title-header">Welcome To Facnex</div>
-                                        <h1>
-                                            Facnex Helps You To <br />
-                                            Save Your Money
-                                        </h1>
-                                        <div class="text-header">Our strategies at work are the means by which to achieve the desired goals, and achieve your goals and dreams here</div>
+                                        <div class="top-title-header">Welcome To</div>
+                                        <h1>CK Prime Alloys</h1>
+                                        <div class="text-header">With over 20 years of expertise, CK PRIME ALLOYS stands as a trusted name in the manufacturing and sourcing of high-quality metal castings Based in Coimbatore.</div>
                                         <div class="banner-btn">
                                             <!-- Button One -->
                                             <a href="#" class="main-btn-one">
                                                 <div class="text-btn">
-                                                    <span class="text-btn-one">Get Started</span>
-                                                    <span class="text-btn-two">Get Started</span>
+                                                    <span class="text-btn-one">For Enquiry</span>
+                                                    <span class="text-btn-two">For Enquiry</span>
                                                 </div>
                                                 <div class="arrow-btn">
                                                     <span class="arrow-one"><i class="fas fa-caret-right"></i></span>
                                                     <span class="arrow-two"><i class="fas fa-caret-right"></i></span>
                                                 </div>
-                                            </a>
-
-                                            <a href="https://youtu.be/l-epKcOA7RQ" data-lity class="play-video">
-                                                <div class="play"><i class="fas fa-play"></i></div>
-                                                <span>How We Work!</span>
                                             </a>
                                         </div>
                                     </div>
@@ -104,28 +91,20 @@
                             <div class="col-lg-8">
                                 <div class="banner display-table text-left">
                                     <div class="info-header table-cell">
-                                        <div class="top-title-header">Welcome To Facnex</div>
-                                        <h1>
-                                            Build innovative <br />
-                                            industrial solutions
-                                        </h1>
-                                        <div class="text-header">Our strategies at work are the means by which to achieve the desired goals, and achieve your goals and dreams here</div>
+                                        <div class="top-title-header">Welcome To</div>
+                                        <h1>CK Prime Alloys</h1>
+                                        <div class="text-header">With over 20 years of expertise, CK PRIME ALLOYS stands as a trusted name in the manufacturing and sourcing of high-quality metal castings Based in Coimbatore.</div>
                                         <div class="banner-btn">
                                             <!-- Button One -->
                                             <a href="#" class="main-btn-one">
                                                 <div class="text-btn">
-                                                    <span class="text-btn-one">Get Started</span>
-                                                    <span class="text-btn-two">Get Started</span>
+                                                    <span class="text-btn-one">For Enquiry</span>
+                                                    <span class="text-btn-two">For Enquiry</span>
                                                 </div>
                                                 <div class="arrow-btn">
                                                     <span class="arrow-one"><i class="fas fa-caret-right"></i></span>
                                                     <span class="arrow-two"><i class="fas fa-caret-right"></i></span>
                                                 </div>
-                                            </a>
-
-                                            <a href="https://youtu.be/l-epKcOA7RQ" data-lity class="play-video">
-                                                <div class="play"><i class="fas fa-play"></i></div>
-                                                <span>How We Work!</span>
                                             </a>
                                         </div>
                                     </div>
@@ -143,7 +122,7 @@
         <!--==================================================================== 
 							Start Section Features One
 	    =====================================================================-->
-        <div class="features pt-120 pb-90">
+        <!-- <div class="features pt-120 pb-90">
             <div class="container">
                 <div class="row section-title">
                     <div class="col-md-5">
@@ -198,7 +177,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!--==================================================================== 
 							End Section Features One
@@ -208,41 +187,46 @@
 							Start Section About Us One
 	    =====================================================================-->
         <section id="about" class="about">
-            <div class="about-one pt-120 pb-70">
+            <div class="about-three pt-120 pb-90">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7 mb-50">
+                        <div class="col-md-6 mb-50">
+                            <div class="slider-about">
+                                <div class="about-img-three">
+                                    <img src="assets/images/about/03-about-us.jpg" alt="about">
+                                </div>
+                                <div class="overlay-about-three"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-20">
                             <div class="info-about">
                                 <div class="section-title-left">
                                     <h2>about us</h2>
-                                    <h3>Get A Solution For All Industries</h3>
+                                    <h3>Experience & Excellence</h3>
                                 </div>
-
-                                <div class="row mb-10">
-                                    <div class="col-12">
-                                        <h5>We offer a comprehensive approach to improving project delivery</h5>
-                                    </div>
-
-                                    <div class="col-sm-6">
-                                        <p class="mb-25">
-                                            FACNEX started as a small metalworking company specializing in forming bonded metals for a variety of industries. The founder of the company, NOUR ELDIN, realized that combining different minerals
-                                            produces compounds that give excellent results.
-                                        </p>
-                                    </div>
-
-                                    <div class="col-sm-6">
-                                        <ul class="list-feat">
-                                            <li><span></span>Experts Team Member</li>
-                                            <li><span></span>Quality and Perfomance</li>
-                                            <li><span></span>Powerful Product Strategy</li>
-                                            <li><span></span>Best technology In The World</li>
-                                            <li><span></span>High strategy in manufacturing</li>
-                                        </ul>
+                                <p class="p-about-thtee">Established in Coimbatore, CK PRIME ALLOYS has been at the forefront of the casting industry for over two decades. Our commitment to quality, innovation, and customer satisfaction has enabled us to serve various sectors, including Oil, Gas, pump, automotive, engineering, and heavy machinery.</p>
+                                <div class="why-us mb-20">
+                                    <div class="row">
+                                        <div class="col-sm-7 col-lg-7">
+                                            <ul class="list-feat">
+                                                <li><span></span>Our Mission</li>
+                                                <p class="p-about-thtee">
+                                                    To provide superior casting solutions that meets and exceeds customer expectations through continuous improvement and technological advancement.
+                                                </p>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-5 col-lg-5">
+                                            <ul class="list-feat">
+                                                <li><span></span>Our Vision</li>
+                                                <p class="p-about-thtee">
+                                                    To be a global leader in the casting industry recognized for our quality, reliability, and commitment to excellence.
+                                                </p>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
-
-                                <!-- Btn Two -->
-                                <a class="main-btn-two" href="about-us.html">
+                                <!-- Button One -->
+                                <a href="about-us.php" class="main-btn-two">
                                     <div class="text-btn">
                                         <span class="text-btn-one">Read More</span>
                                         <span class="text-btn-two">Read More</span>
@@ -252,31 +236,12 @@
                                         <span class="arrow-two"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </a>
-
-                                <div class="call-us">
-                                    <span>Call us or for any inquiries</span>
-                                    <span class="phone-number"><a href="#">+(02) 0114-9912-318</a></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-5 mb-50">
-                            <div class="about-img-one">
-                                <div class="owl-carousel about-carousel">
-                                    <div class="owl-item">
-                                        <img src="assets/images/about/02-slider.jpg" alt="img" />
-                                    </div>
-                                    <div class="owl-item">
-                                        <img src="assets/images/about/01-slider.jpg" alt="img" />
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-
         <!--==================================================================== 
 							End Section About Us One
 	    =====================================================================-->
@@ -1282,7 +1247,7 @@
 
         <!--==================================================================== 
 							End Section Blog
-	=====================================================================-->
+        =====================================================================-->
 
         <?php include "temp/footer.php" ?>
 
