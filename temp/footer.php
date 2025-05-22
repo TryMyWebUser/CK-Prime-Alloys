@@ -58,27 +58,27 @@
                         <div class="col-12">
                             <ul class="footer-link list-unstyled mb-0">
                                 <li>
-                                    <a href="0#" style="line-height: 26px;">
+                                    <a href="#" style="line-height: 26px;">
                                         <span>
                                             <i class="fas fa-map-marker-alt"></i>
                                         </span>
-                                        70 Washington Square South, New York, NY 10012, United States.
+                                        Coimbatore, Tamil Nadu.
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:+919999999999">
+                                    <a href="tel:+919159531600">
                                         <span>
                                             <i class="fa fa-phone"></i>
                                         </span>
-                                        +91 999 999 9999
+                                        +91 915 953 1600
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="mailto:example@gmail.com">
+                                    <a href="mailto:ckprimealloys@gmail.com">
                                         <span>
                                             <i class="fas fa-envelope"></i>
                                         </span>
-                                        example@gmail.com
+                                        ckprimealloys@gmail.com
                                     </a>
                                 </li>
                             </ul>

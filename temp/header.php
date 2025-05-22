@@ -25,11 +25,11 @@
             <!-- Item Contact US Bar -->
             <div class="col-md-9">
                 <div class="contact-us-bar">
-                    <a href="#"> <span class="flaticon-email"></span> Hello@example.com </a>
+                    <a href="mailto:ckprimealloys@gmail.com"> <span class="flaticon-email"></span> ckprimealloys@gmail.com </a>
 
-                    <a href="#"> <span class="flaticon-call"></span> +91 9999 999 999 </a>
+                    <a href="tel:+919159531600"> <span class="flaticon-call"></span> +91 915 953 1600 </a>
 
-                    <a href="#" class="d-n-mobile"> <span class="flaticon-location"></span> 70 Washington Square South, New York, NY 10012, United States. </a>
+                    <a href="#" class="d-n-mobile"> <span class="flaticon-location"></span> Coimbatore, Tamil Nadu. </a>
                 </div>
             </div>
 
@@ -117,15 +117,7 @@
                             <li class="nav-item has-dropdown">
                                 <a href="services.php" class="nav-link">
                                     Services
-                                    <span class="icon-down icon-down-one">
-                                        <i class="fas fa-angle-down"></i>
-                                    </span>
                                 </a>
-
-                                <ul class="sub-menu">
-                                    <li><a href="services-one.html">Services One</a></li>
-                                    <li><a href="services-two.html">Services Two</a></li>
-                                </ul>
                             </li>
 
                             <li class="nav-item">

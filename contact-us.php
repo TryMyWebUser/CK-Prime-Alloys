@@ -21,8 +21,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <span class="page-title-line">Contact Us</span>
-                        <h1 class="page-title-heading">Get in Touch.</h1>
+                        <h1 class="page-title-heading">Contact Us</h1>
+                        <span class="page-title-line mt-2"><a href="index.php">Home</a> / Contact Us</span>
                     </div>
                 </div>
             </div>
@@ -40,51 +40,36 @@
                     <div class="col-12">
                         <div class="contact-us-meta">
                             <div class="row">
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="contact-item">
                                         <div class="inner-contact">
                                             <span><i class="fa fa-phone"></i></span>
                                             <h4>Phone</h4>
                                         </div>
 
-                                        <p>+(02) 0114-9912-318</p>
-                                        <p>+(02) 0111-7457-354</p>
+                                        <p><a href="tel:+919159531600" style="color: #666;">+91 915 953 1600</a></p>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="contact-item">
                                         <div class="inner-contact">
                                             <span><i class="fa fa-envelope"></i></span>
                                             <h4>Email</h4>
                                         </div>
 
-                                        <p>Hello@example.com</p>
-                                        <p>support@yourwebsite.com</p>
+                                        <p><a href="mailto:ckprimealloys@gmail.com" style="color: #666;">ckprimealloys@gmail.com</a></p>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="contact-item">
                                         <div class="inner-contact">
                                             <span><i class="fa fa-location-arrow"></i></span>
                                             <h4>Address</h4>
                                         </div>
 
-                                        <p>US - Los Angeles 5135 - 4234</p>
-                                        <p>In The Center Street Name Here</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="contact-item">
-                                        <div class="inner-contact">
-                                            <span><i class="fas fa-clock"></i></span>
-                                            <h4>Online work</h4>
-                                        </div>
-
-                                        <p>Monday - Fraiday, 9am - 5pm,</p>
-                                        <p>Saturday & Sunday - CLOSED</p>
+                                        <p>Coimbatore, Tamil Nadu.</p>
                                     </div>
                                 </div>
                             </div>

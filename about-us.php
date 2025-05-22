@@ -21,8 +21,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <span class="page-title-line">About Us</span>
-                        <h1 class="page-title-heading">CK Prime Alloys</h1>
+                        <h1 class="page-title-heading">About Us</h1>
+                        <span class="page-title-line mt-2"><a href="index.php">Home</a> / About Us</span>
                     </div>
                 </div>
             </div>
@@ -42,7 +42,8 @@
                             <div class="info-about">
                                 <div class="section-title-left">
                                     <h2 class="color-red">about us</h2>
-                                    <h3>Experience & Excellence</h3>
+                                    <h3>CK Prime Alloys</h3>
+                                    <h5>Experience & Excellence</h5>
                                 </div>
 
                                 <p class="p-about-two">
